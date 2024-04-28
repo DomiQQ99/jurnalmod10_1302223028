@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "sqCYxk1++fYC91wzliL/F+MdOiR0xFLgKwR5WFDQMh7tfgUkcaW6Wc/Uhxgsk9YNT0oIBajGa6CVvNHdSzZqPA==",
+  "success": true,
+  "projectFilePath": "D:\\Juranalmod9_1302223028\\Juranalmod9_1302223028\\Juranalmod9_1302223028.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

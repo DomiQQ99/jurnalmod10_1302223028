@@ -1,0 +1,6 @@
+@Juranalmod9_1302223028_HostAddress = http://localhost:5080
+
+GET {{Juranalmod9_1302223028_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
