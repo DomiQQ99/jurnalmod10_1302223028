@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Juranalmod9_1302223028.props" />
+</Project>
